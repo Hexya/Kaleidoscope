@@ -1,4 +1,4 @@
-# Three.js Audio experiment
+# Three.js Kaleidoscope experiment
 ## Setup
 
 * Execute `npm install`
